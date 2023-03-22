@@ -8,13 +8,13 @@
   
   5'in sağına 8, soluna 3
   
-  8'in sağına 9, soluna 6
+  8'in sağına 9, soluna 7
   
   3'ün sağına 4, soluna 2
   
   2'nin sağına 1, soluna 0
   
-  6'nın sağına 7 yazılır.
+  7'nın soluna 6 yazılır.
   
   
   
